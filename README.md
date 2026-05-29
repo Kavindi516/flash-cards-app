@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Flash Cards Application 📇
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A lightweight, interactive flash card web application built with vanilla JavaScript. This project is a solution to the [roadmap.sh Flash Cards Challenge](https://roadmap.sh/projects/flash-cards).
 
-## Available Scripts
+The objective is to practice building custom, interactive user interfaces using modern, component-based JavaScript without relying on heavy frontend frameworks.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Component-Based Architecture:** Modular, reusable UI components built using vanilla JavaScript (`var`, `let`, and `const`).
+- **Interactive Flashcards:** Tap or click to smoothly flip cards between the question and answer sides.
+- **Progress Tracking:** Keep tabs on how many cards you've mastered during a study session.
+- **Responsive Design:** Fully responsive layout optimized for mobile, tablet, and desktop viewing.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **HTML5:** Semantic document structure.
+- **CSS3:** Custom styling, transitions, and 3D card-flip animations.
+- **JavaScript (ES6+):** Vanilla component rendering and state management.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📦 Installation & Setup
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this project locally, follow these simple steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Kavindi516/flash-cards-app.git](https://github.com/Kavindi516/flash-cards-app.git)
